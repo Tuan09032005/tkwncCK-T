@@ -2,10 +2,7 @@
   <div class="container py-5">
     <h2 class="text-danger mb-4">Giới thiệu nhóm</h2>
     <p class="lead text-muted">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-      Voluptatibus quisquam deserunt earum praesentium voluptatem,
-       cumque iure esse repellendus atque,
-       possimus tempora quis minus nemo maxime. Dolore asperiores illo corrupti non?
+     GVHD.Ths.Phạm Đằng Phương,nhóm bao gồm,Phạm Tuân,Phan Đức Tiến,Công hảo <br>tk admin để test chức năng-tk:nguyenconghao210605@gmail.com,mk:987654
     </p>
 
     <hr class="my-4" />

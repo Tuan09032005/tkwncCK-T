@@ -10,13 +10,14 @@
         width="200px"
       />
       <!-- //timkiem -->
-      <div class="d-flex mx-auto" style="width: 25%" role="search">
-        <img
-        src="https://www.kthcm.edu.vn/wp-content/uploads/2023/10/Ten-truong-do-1000x159.png"
-        alt=""
-        width="400px"
-      />
-      </div>
+      <div class="d-flex align-items-center mx-auto" style="width: 25%" role="search">
+  <img
+    src="https://www.kthcm.edu.vn/wp-content/uploads/2023/10/Ten-truong-do-1000x159.png"
+    alt=""
+    width="250px"
+  />
+  <p class="ms-3 mb-0 fw-bold text-dark">GVHD.Ths.Phạm Đằng Phương</p>
+</div>
       <!-- ---- -->
       <div style="width: 20%; display: flex">
         <!-- Icon user -->
